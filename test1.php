@@ -5,7 +5,6 @@ header("Content-Type:text/html;charset=UTF-8");
  * Blog   www.wujunze.com
  * Email  itwujunze@163.com
  * Date: 15/9/11
- * Time: 下午1:29
  */
 
 //var_dump($_POST);
