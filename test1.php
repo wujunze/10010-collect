@@ -4,7 +4,7 @@ header("Content-Type:text/html;charset=UTF-8");
 /**
  * Blog   www.wujunze.com
  * Email  itwujunze@163.com
- * Date: 15/9/11
+ * Date:
  */
 
 //var_dump($_POST);
