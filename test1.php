@@ -2,16 +2,12 @@
 <?php
 /**
  * 爬取中国联通网站的通话记录
- *
+ ** Blog   www.wujunze.com
+ * Email  itwujunze@163.com
+ * Date:
  *
  */
 header("Content-Type:text/html;charset=UTF-8");
-/**
- * Blog   www.wujunze.com
- * Email  itwujunze@163.com
- * Date:
- */
-
 //var_dump($_POST);
 $num = $_POST['num'];
 $pwd = $_POST['pwd'];
