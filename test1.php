@@ -1,5 +1,10 @@
 
 <?php
+/**
+ * 爬取中国联通网站的通话记录
+ *
+ *
+ */
 header("Content-Type:text/html;charset=UTF-8");
 /**
  * Blog   www.wujunze.com
